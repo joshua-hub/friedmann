@@ -1,0 +1,21 @@
+phys3071 as06 melsom 42593249
+
+Q: How does the age of the universe change is the cosmological constant is 
+positive compared to the case LAMBDA=0? Can one understand this change from the
+differential equation?
+
+The age of the universe increases as a result of a small positive cosmological 
+constant. This can be seen from tHe differential equation as it belongs to a 
+group of terms that all increase the acceleration of the universe. When the 
+cosmological constant is set to zero, the whole term goes to zero.
+
+Increasing the Hubble constant reduces the age of the universe.
+
+
+Q: Observations show that the age of the oldest stars is around  13Gyr. Which 
+of the above cosmologies is this observation compatible?
+
+The only cosmology that can accommodate both the age of these stars, as well as
+a period before for the coalescence of gasses to form the stars is  the model 
+in which the Hubble constant is 70.0 km/sec/Mpc and the cosmological constant 
+is 1.25E-52 per m^2.
